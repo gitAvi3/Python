@@ -8,6 +8,6 @@
 # name=input(" ")
 # print("Hello "+ name) //taking input 
 
-age=input(" ")
+age=input("new")
 new_age=int(age)+2
 print(new_age)
